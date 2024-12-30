@@ -1,0 +1,49 @@
+Importance values for each sentence in the document:
+
+Row Number: 1, Sentence 1: In one example, a method includes receiving a digital note of a plurality of digital notes generated based on image data comprising a visual representation of a scene that includes a plurality of physical notes such that each of the plurality of digital notes respectively corresponds to a particular physical note of the plurality of physical notes, 
+Sentence weight: 0.4160260
+
+Row Number: 1, Sentence 2: wherein each of the physical notes includes respective recognizable content. 
+Sentence weight: 0.005785
+
+Row Number: 1, Sentence 3: In this example, the method also includes receiving user input indicating a modification to one or more visual characteristics of the digital note. 
+Sentence weight: 0.020655
+
+Row Number: 1, Sentence 4: In this example, the method also includes editing, in response to the user input, the one or more visual characteristics of the digital note. 
+Sentence weight: 0.277230
+
+Row Number: 1, Sentence 5: In this example, the method also includes outputting, for display, a modified version of the digital note that includes the one or more visual characteristics. 
+Sentence weight: 0.280301
+
+Row Number: 2, Sentence 1: Described is a system for optimizing rapid serial visual presentation (RSVP).
+Sentence weight: 0.1289961
+
+Row Number: 2, Sentence 2: A similarity metric is computed for RSVP images, and the images are sequenced according to the similarity metrics.
+Sentence weight: 0.060963087
+
+Row Number: 2, Sentence 3: The sequenced images are presented to a user, and neural signals are received to detect a P300 signal.
+Sentence weight: 0.17385869
+
+Row Number: 2, Sentence 4: A neural score for each image is computed, and the system is optimized to model the neural scores.
+Sentence weight: 0.11430116
+
+Row Number: 2, Sentence 5: The images are resequenced according a predictive model to output a sequence prediction which does not cause a false P300 signal.
+Sentence weight: 0.22069916
+
+Row Number: 2, Sentence 6: Additionally, the present invention describes computing a set of motion surprise maps from image chips.
+Sentence weight: 0.06820229
+
+Row Number: 2, Sentence 7: The image chips are labeled as static or moving and prepared into RSVP datasets.
+Sentence weight: 0.041011494
+
+Row Number: 2, Sentence 8: Neural signals are recorded in response to the RSVP datasets, and an EEG score is computed from the neural signals.
+Sentence weight: 0.10822457
+
+Row Number: 2, Sentence 9: Each image chip is then classified as containing or not containing an item of interest.
+Sentence weight: 0.08374337
+
+Row Number: 3, Sentence 1: A method of selling products and/or services using an interactive entertainment system.
+Sentence weight: 0.032164127
+
+Row Number: 3, Sentence 2: The method includes steps of: providing access to interactive content to a user at a first level of access over a computer network; selling a product and/or service to the user; responsive to the selling, providing access to the content at a second level of access over the network; receiving consent from the user to display advertisements along with the content; and responsive to the selling and the receiving, providing access to the content at a third level of access over the network.
+Sentence weight: 0.4184564
